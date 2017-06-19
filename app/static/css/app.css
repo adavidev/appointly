@@ -1,0 +1,10 @@
+.navbar-brand {
+  font-family: 'Lobster', cursive;
+}
+.new-form {
+  margin-bottom: 10px;
+}
+button,
+input {
+  margin-right: 5px;
+}
